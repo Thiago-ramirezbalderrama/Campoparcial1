@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Facultad\Campo\Patron decorador Gonzalo figlioli\Patron decorador Gonzalo figlioli\obj\Debug\net6.0\Patron decorador Gonzalo figlioli.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Facultad\Campo\Patron decorador Gonzalo figlioli\Patron decorador Gonzalo figlioli\obj\Debug\net6.0\Patron decorador Gonzalo figlioli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Facultad\Campo\Patron decorador Gonzalo figlioli\Patron decorador Gonzalo figlioli\obj\Debug\net6.0\Patron decorador Gonzalo figlioli.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Facultad\Campo\Patron decorador Gonzalo figlioli\Patron decorador Gonzalo figlioli\obj\Debug\net6.0\Patron decorador Gonzalo figlioli.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Facultad\Campo\Patron decorador Gonzalo figlioli\Patron decorador Gonzalo figlioli\obj\Debug\net6.0\Patron decorador Gonzalo figlioli.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Facultad\Campo\Patron decorador Gonzalo figlioli\Patron decorador Gonzalo figlioli\bin\Debug\net6.0\Patron decorador Gonzalo figlioli.exe
+C:\Users\Usuario\Desktop\Facultad\Campo\Patron decorador Gonzalo figlioli\Patron decorador Gonzalo figlioli\bin\Debug\net6.0\Patron decorador Gonzalo figlioli.deps.json
+C:\Users\Usuario\Desktop\Facultad\Campo\Patron decorador Gonzalo figlioli\Patron decorador Gonzalo figlioli\bin\Debug\net6.0\Patron decorador Gonzalo figlioli.runtimeconfig.json
+C:\Users\Usuario\Desktop\Facultad\Campo\Patron decorador Gonzalo figlioli\Patron decorador Gonzalo figlioli\bin\Debug\net6.0\Patron decorador Gonzalo figlioli.dll
+C:\Users\Usuario\Desktop\Facultad\Campo\Patron decorador Gonzalo figlioli\Patron decorador Gonzalo figlioli\bin\Debug\net6.0\Patron decorador Gonzalo figlioli.pdb
+C:\Users\Usuario\Desktop\Facultad\Campo\Patron decorador Gonzalo figlioli\Patron decorador Gonzalo figlioli\obj\Debug\net6.0\Patron decorador Gonzalo figlioli.dll
+C:\Users\Usuario\Desktop\Facultad\Campo\Patron decorador Gonzalo figlioli\Patron decorador Gonzalo figlioli\obj\Debug\net6.0\refint\Patron decorador Gonzalo figlioli.dll
+C:\Users\Usuario\Desktop\Facultad\Campo\Patron decorador Gonzalo figlioli\Patron decorador Gonzalo figlioli\obj\Debug\net6.0\Patron decorador Gonzalo figlioli.pdb
+C:\Users\Usuario\Desktop\Facultad\Campo\Patron decorador Gonzalo figlioli\Patron decorador Gonzalo figlioli\obj\Debug\net6.0\Patron decorador Gonzalo figlioli.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Facultad\Campo\Patron decorador Gonzalo figlioli\Patron decorador Gonzalo figlioli\obj\Debug\net6.0\ref\Patron decorador Gonzalo figlioli.dll
