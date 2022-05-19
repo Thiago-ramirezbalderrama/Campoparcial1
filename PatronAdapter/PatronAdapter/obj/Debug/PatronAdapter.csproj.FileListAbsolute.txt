@@ -1,0 +1,8 @@
+D:\3er año\Trabajo de Campo\Patrones propios\PatronAdapter\PatronAdapter\bin\Debug\PatronAdapter.exe.config
+D:\3er año\Trabajo de Campo\Patrones propios\PatronAdapter\PatronAdapter\bin\Debug\PatronAdapter.exe
+D:\3er año\Trabajo de Campo\Patrones propios\PatronAdapter\PatronAdapter\bin\Debug\PatronAdapter.pdb
+D:\3er año\Trabajo de Campo\Patrones propios\PatronAdapter\PatronAdapter\obj\Debug\PatronAdapter.csproj.AssemblyReference.cache
+D:\3er año\Trabajo de Campo\Patrones propios\PatronAdapter\PatronAdapter\obj\Debug\PatronAdapter.csproj.SuggestedBindingRedirects.cache
+D:\3er año\Trabajo de Campo\Patrones propios\PatronAdapter\PatronAdapter\obj\Debug\PatronAdapter.csproj.CoreCompileInputs.cache
+D:\3er año\Trabajo de Campo\Patrones propios\PatronAdapter\PatronAdapter\obj\Debug\PatronAdapter.exe
+D:\3er año\Trabajo de Campo\Patrones propios\PatronAdapter\PatronAdapter\obj\Debug\PatronAdapter.pdb
